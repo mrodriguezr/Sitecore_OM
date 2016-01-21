@@ -1,0 +1,8 @@
+﻿<Project>
+  <PropertyGroup>
+    <Site Server="oscarmayer" UserName="sitecore\admin" IsRemoteSitecore="False" />
+  </PropertyGroup>
+  <File Include="Views\Website\Layouts\Default.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{7D13D926-A98F-420D-B5C3-27A0F1A22841}</Item>
+  </File>
+</Project>
