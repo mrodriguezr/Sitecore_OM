@@ -15,8 +15,6 @@ c:\users\melvin\documents\visual studio 2015\Projects\OscarMayer\OscarMayer\bin\
 c:\users\melvin\documents\visual studio 2015\Projects\OscarMayer\OscarMayer\bin\OscarMayer.pdb
 c:\users\melvin\documents\visual studio 2015\Projects\OscarMayer\OscarMayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 c:\users\melvin\documents\visual studio 2015\Projects\OscarMayer\OscarMayer\bin\Microsoft.Web.Infrastructure.dll
-c:\users\melvin\documents\visual studio 2015\Projects\OscarMayer\OscarMayer\bin\Newtonsoft.Json.dll
-c:\users\melvin\documents\visual studio 2015\Projects\OscarMayer\OscarMayer\bin\Sitecore.Mvc.dll
 c:\users\melvin\documents\visual studio 2015\Projects\OscarMayer\OscarMayer\bin\System.Net.Http.Formatting.dll
 c:\users\melvin\documents\visual studio 2015\Projects\OscarMayer\OscarMayer\bin\System.Web.Helpers.dll
 c:\users\melvin\documents\visual studio 2015\Projects\OscarMayer\OscarMayer\bin\System.Web.Http.WebHost.dll
@@ -35,3 +33,8 @@ c:\users\melvin\documents\visual studio 2015\Projects\OscarMayer\OscarMayer\bin\
 c:\users\melvin\documents\visual studio 2015\Projects\OscarMayer\OscarMayer\obj\Debug\OscarMayer.csprojResolveAssemblyReference.cache
 c:\users\melvin\documents\visual studio 2015\Projects\OscarMayer\OscarMayer\obj\Debug\OscarMayer.dll
 c:\users\melvin\documents\visual studio 2015\Projects\OscarMayer\OscarMayer\obj\Debug\OscarMayer.pdb
+c:\users\melvin\documents\visual studio 2015\Projects\OscarMayer\OscarMayer\bin\Newtonsoft.Json.dll
+c:\users\melvin\documents\visual studio 2015\Projects\OscarMayer\OscarMayer\bin\Sitecore.Mvc.dll
+c:\users\melvin\documents\visual studio 2015\Projects\OscarMayer\OscarMayer\bin\Sitecore.Mvc.Analytics.dll
+c:\users\melvin\documents\visual studio 2015\Projects\OscarMayer\OscarMayer\bin\DynamicPlaceholders.dll
+c:\users\melvin\documents\visual studio 2015\Projects\OscarMayer\OscarMayer\bin\DynamicPlaceholders.Mvc.dll

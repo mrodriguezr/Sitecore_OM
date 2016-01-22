@@ -1,4 +1,11 @@
-﻿
+﻿@*@using Sitecore.Foundation.Assets
+@using Sitecore.Foundation.Assets.Models*@
+
+@using Sitecore.Mvc.Analytics.Extensions
+
+
+@model Sitecore.Mvc.Presentation.RenderingModel
+
 @{
     Layout = null;
 }
@@ -6,13 +13,65 @@
 <!DOCTYPE html>
 
 <html>
-<head>
-    <meta name="viewport" content="width=device-width" />
-    <title>Default</title>
-</head>
-<body>
-    <h1> 
-        My Default layout!!!
-    </h1>
-</body>
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+        <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+        @if (!Sitecore.Context.PageMode.IsExperienceEditor)
+        {
+            @Html.Sitecore().Placeholder("head")
+        }
+        <!-- Latest compiled and minified JavaScript -->
+        @*@RenderAssetsService.Current.RenderScript(ScriptLocation.Head)
+        @RenderAssetsService.Current.RenderStyles()*@
+        @Html.Sitecore().VisitorIdentification()
+    </head>
+
+    <body class="@(Sitecore.Context.PageMode.IsNormal ? "" : (Sitecore.Context.PageMode.IsExperienceEditor ? "pagemode-edit" : "pagemode-preview"))">
+        <header>
+            <div class="topbar">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <div class="pull-left">@Html.Sitecore().Placeholder("topbarleft")</div>
+                            <div class="pull-right">@Html.Sitecore().Placeholder("topbarright")</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="mainnavbar">
+                <div class="container-fluid">
+                    @Html.Sitecore().Placeholder("navbar")
+                </div>
+            </div>
+        </header>
+
+        <div class="page-layout">
+            <h1>
+                My Default layout!!!
+            </h1>
+            @Html.Sitecore().Placeholder("page-layout")
+            <p>
+                @Html.Sitecore().ViewRendering("/Views/Renderings/DateInfo.cshtml")
+            </p>
+        </div>
+
+        <footer>
+            @Html.Sitecore().Placeholder("footer")
+        </footer>
+
+        @if (!Sitecore.Context.PageMode.IsExperienceEditor)
+        {
+            <div id="sidebar-wrapper">
+                <a href="#sidebar" class="sidebar-toggle">
+                    <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span>
+                </a>
+                <div id="sidebar">
+                    @Html.Sitecore().Placeholder("page-sidebar")
+                </div>
+            </div>
+        }
+        @*@RenderAssetsService.Current.RenderScript(ScriptLocation.Body)*@
+    </body>
 </html>
