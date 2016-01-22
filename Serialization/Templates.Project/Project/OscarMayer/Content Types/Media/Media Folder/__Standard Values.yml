@@ -1,0 +1,23 @@
+﻿---
+ID: 51fa7d38-d1dc-4a84-92ba-9ce534977741
+Parent: 6401e8fb-a9a3-49a8-a772-f40fc036ae3d
+Template: 6401e8fb-a9a3-49a8-a772-f40fc036ae3d
+Path: /sitecore/templates/Project/OscarMayer/Content Types/Media/Media Folder/__Standard Values
+SharedFields:
+- ID: 1172f251-dad4-4efb-a329-0c63500e4f1e
+  # __Masters
+  Type: TreelistEx
+  Value: |
+    {BBB9BBA0-13B3-48FE-ABA8-87510DDC38FD}
+    {6401E8FB-A9A3-49A8-A772-F40FC036AE3D}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20160122T021917Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin

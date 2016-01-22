@@ -1,0 +1,29 @@
+﻿---
+ID: c5785241-f83d-4b4d-822b-a2c12bf7b5d5
+Parent: 79e552f9-cda6-47d8-99d0-a46f6a818b3f
+Template: ab86861a-6030-46c5-b394-e8f99e8b87db
+Path: /sitecore/templates/Project/OscarMayer/Page Types/Section
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  # __Icon
+  Value: Office/16x16/book2.png
+- ID: 12c33f3f-86c5-43a5-aeb4-5598cec45116
+  # __Base template
+  Type: tree list
+  Value: |
+    {1478A035-E9F2-4550-9268-9408138C6EC5}
+    {D9CE04BA-6540-4F32-B1D9-3724B20497CA}
+- ID: f7d48a55-2158-4f02-9356-756654404f73
+  # __Standard values
+  Value: {B1719EE3-9959-4CE4-B440-E0268DD8DEDC}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20160122T015400Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin

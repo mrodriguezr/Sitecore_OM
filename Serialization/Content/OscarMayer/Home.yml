@@ -1,0 +1,37 @@
+﻿---
+ID: 3c9e6fc1-f3b0-4daf-84f6-59e23e7be6e4
+Parent: deb7379b-4999-4e70-aca0-779430115c2e
+Template: 84668b3f-99dd-419f-8eaa-53f6ba61cdca
+Path: /sitecore/content/OscarMayer/Home
+SharedFields:
+- ID: ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e
+  # __Sortorder
+  Value: 0
+- ID: f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e
+  # __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{7D13D926-A98F-420D-B5C3-27A0F1A22841}" />
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 04bf00db-f5fb-41f7-8ab7-22408372a981
+      # __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s" p:p="1">
+          <d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r uid="{529FA542-DA30-4B5E-BA7F-12A2F340C9EF}" p:before="r[@uid='{69FCD508-1ED1-4ECF-9664-18FAC3D10AE0}']" s:ds="{B169A110-59D4-4968-A210-825DA5D6FB36}" s:id="{2EDF8879-8541-4193-8AF8-A7A2131A069D}" s:ph="/page-layout/col-huge_69fcd508-1ed1-4ecf-9664-18fac3d10ae0" />
+            <r uid="{69FCD508-1ED1-4ECF-9664-18FAC3D10AE0}" s:id="{DD5D1D2D-35D6-45FB-81CD-62F7B31E1532}" s:ph="page-layout" />
+          </d>
+        </r>
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20160121T204324Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin

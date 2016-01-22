@@ -1,0 +1,35 @@
+﻿---
+ID: e87700e2-aa23-419d-803f-cbe60ad2c493
+Parent: 60624182-d881-42c8-90a3-e5cf1e76adca
+Template: ab86861a-6030-46c5-b394-e8f99e8b87db
+Path: /sitecore/templates/Project/OscarMayer/Content Types/Site Root
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  # __Icon
+  Value: Applications/16x16/window_earth.png
+- ID: 1172f251-dad4-4efb-a329-0c63500e4f1e
+  # __Masters
+  Type: TreelistEx
+  Value: |
+    {84668B3F-99DD-419F-8EAA-53F6BA61CDCA}
+    {E269FBB5-3750-427A-9149-7AA950B49301}
+- ID: 12c33f3f-86c5-43a5-aeb4-5598cec45116
+  # __Base template
+  Type: tree list
+  Value: |
+    {1930BBEB-7805-471A-A3BE-4858AC7CF696}
+    {8B383A1B-6C40-47DE-B1A5-C012281AAB43}
+- ID: f7d48a55-2158-4f02-9356-756654404f73
+  # __Standard values
+  Value: {9AD55B30-6785-436A-A314-66197B81F360}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20160121T201309Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin

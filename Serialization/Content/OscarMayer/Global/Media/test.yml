@@ -1,0 +1,22 @@
+﻿---
+ID: b169a110-59d4-4968-a210-825da5d6fb36
+Parent: 937f9c93-a4b7-4260-ac27-2e67adcaa3ad
+Template: bbb9bba0-13b3-48fe-aba8-87510ddc38fd
+Path: /sitecore/content/OscarMayer/Global/Media/test
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20160122T023349Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: cd4ea774-daec-4207-be18-34965aedbf78
+      # MediaImage
+      Value: "<image mediaid=\"{2F386C96-DED5-4842-A969-5FE2AB6E1A46}\" />"
+    - ID: eea2a7a6-d38e-4a71-88ce-d1b9e0f6dc63
+      # MediaTitle
+      Value: hola mundo, adios

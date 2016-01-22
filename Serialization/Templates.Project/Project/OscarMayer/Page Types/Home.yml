@@ -1,0 +1,36 @@
+﻿---
+ID: 84668b3f-99dd-419f-8eaa-53f6ba61cdca
+Parent: 79e552f9-cda6-47d8-99d0-a46f6a818b3f
+Template: ab86861a-6030-46c5-b394-e8f99e8b87db
+Path: /sitecore/templates/Project/OscarMayer/Page Types/Home
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  # __Icon
+  Value: Network/16x16/home.png
+- ID: 1172f251-dad4-4efb-a329-0c63500e4f1e
+  # __Masters
+  Type: TreelistEx
+  Value: |
+    {C5785241-F83D-4B4D-822B-A2C12BF7B5D5}
+    {E269FBB5-3750-427A-9149-7AA950B49301}
+- ID: 12c33f3f-86c5-43a5-aeb4-5598cec45116
+  # __Base template
+  Type: tree list
+  Value: |
+    {7B2D242F-CD66-4E2C-B65B-C044AFC07537}
+    {D9CE04BA-6540-4F32-B1D9-3724B20497CA}
+    {D42A4085-E122-4CAA-B740-8C7352E19329}
+- ID: f7d48a55-2158-4f02-9356-756654404f73
+  # __Standard values
+  Value: {F4D035C4-88F7-4E9F-A358-AF81B0A17A47}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20160121T200304Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin

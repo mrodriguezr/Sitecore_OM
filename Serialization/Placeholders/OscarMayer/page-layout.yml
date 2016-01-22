@@ -1,0 +1,21 @@
+﻿---
+ID: f25a345f-2e00-47d1-b758-47f69c97b21a
+Parent: ae955d91-5dd8-49a0-b88c-4e226ca5ffb5
+Template: 5c547d4e-7111-4995-95b0-6b561751bf2e
+Path: /sitecore/layout/Placeholder Settings/Project/OscarMayer/page-layout
+SharedFields:
+- ID: 7256bdab-1fd2-49dd-b205-cb4873d2917c
+  # Placeholder Key
+  Value: page-layout
+- ID: e391b526-d0c5-439d-803e-17512eae6222
+  # Allowed Controls
+  Type: TreelistEx
+  Value: {DD5D1D2D-35D6-45FB-81CD-62F7B31E1532}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20160121T174648Z

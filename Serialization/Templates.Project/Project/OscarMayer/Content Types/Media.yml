@@ -1,0 +1,16 @@
+﻿---
+ID: e8a64f0e-435a-4f79-bdf0-077dea8cadcf
+Parent: 60624182-d881-42c8-90a3-e5cf1e76adca
+Template: 0437fee2-44c9-46a6-abe9-28858d9fee8c
+Path: /sitecore/templates/Project/OscarMayer/Content Types/Media
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20160121T200655Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin

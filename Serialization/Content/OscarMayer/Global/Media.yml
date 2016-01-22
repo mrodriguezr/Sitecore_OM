@@ -1,0 +1,13 @@
+﻿---
+ID: 937f9c93-a4b7-4260-ac27-2e67adcaa3ad
+Parent: f50bbb72-dec4-4c0d-a269-6a6ac3958036
+Template: 6401e8fb-a9a3-49a8-a772-f40fc036ae3d
+Path: /sitecore/content/OscarMayer/Global/Media
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20160122T022152Z

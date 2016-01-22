@@ -1,0 +1,16 @@
+﻿---
+ID: 36721a98-5c86-4cf2-8bbe-4a6073fd48a3
+Parent: 913d5370-b32b-4faa-920e-3d6dca72a7a6
+Template: 0437fee2-44c9-46a6-abe9-28858d9fee8c
+Path: /sitecore/templates/Feature/Metadata
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20160121T200351Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin

@@ -1,0 +1,24 @@
+﻿---
+ID: 9ad55b30-6785-436a-a314-66197b81f360
+Parent: e87700e2-aa23-419d-803f-cbe60ad2c493
+Template: e87700e2-aa23-419d-803f-cbe60ad2c493
+Path: /sitecore/templates/Project/OscarMayer/Content Types/Site Root/__Standard Values
+SharedFields:
+- ID: 1172f251-dad4-4efb-a329-0c63500e4f1e
+  # __Masters
+  Type: TreelistEx
+  Value: {84668B3F-99DD-419F-8EAA-53F6BA61CDCA}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20160121T203124Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: b07701ac-d3e0-44ea-ae06-24bf404f6f7a
+      # Copyright
+      Value: ALL RIGHTS RESERVED.

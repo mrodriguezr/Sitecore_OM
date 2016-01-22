@@ -38,3 +38,8 @@ c:\users\melvin\documents\visual studio 2015\Projects\OscarMayer\OscarMayer\bin\
 c:\users\melvin\documents\visual studio 2015\Projects\OscarMayer\OscarMayer\bin\Sitecore.Mvc.Analytics.dll
 c:\users\melvin\documents\visual studio 2015\Projects\OscarMayer\OscarMayer\bin\DynamicPlaceholders.dll
 c:\users\melvin\documents\visual studio 2015\Projects\OscarMayer\OscarMayer\bin\DynamicPlaceholders.Mvc.dll
+c:\Users\Melvin\Documents\Visual Studio 2015\Projects\OscarMayer\OscarMayer\bin\Kamsar.WebConsole.dll
+c:\Users\Melvin\Documents\Visual Studio 2015\Projects\OscarMayer\OscarMayer\bin\Rainbow.dll
+c:\Users\Melvin\Documents\Visual Studio 2015\Projects\OscarMayer\OscarMayer\bin\Rainbow.Storage.Sc.dll
+c:\Users\Melvin\Documents\Visual Studio 2015\Projects\OscarMayer\OscarMayer\bin\Rainbow.Storage.Yaml.dll
+c:\Users\Melvin\Documents\Visual Studio 2015\Projects\OscarMayer\OscarMayer\bin\Unicorn.dll

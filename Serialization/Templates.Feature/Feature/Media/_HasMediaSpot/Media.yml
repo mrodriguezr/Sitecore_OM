@@ -1,0 +1,16 @@
+﻿---
+ID: 54ca666d-1584-4907-acaa-129b66e0f5c9
+Parent: 5fbcfec5-6573-4f27-bd24-85e6b2d7c4b6
+Template: e269fbb5-3750-427a-9149-7aa950b49301
+Path: /sitecore/templates/Feature/Media/_HasMediaSpot/Media
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20160121T200602Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin

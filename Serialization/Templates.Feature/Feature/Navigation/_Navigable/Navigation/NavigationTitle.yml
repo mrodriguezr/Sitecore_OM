@@ -1,0 +1,20 @@
+﻿---
+ID: 2436191f-5525-48c0-9305-513065d135fd
+Parent: 059f60ea-acf7-4353-a242-aa4e93c2c0c3
+Template: 455a3e98-a627-4b40-8035-e683a0331ac7
+Path: /sitecore/templates/Feature/Navigation/_Navigable/Navigation/NavigationTitle
+SharedFields:
+- ID: ab162cc0-dc80-4abf-8871-998ee5d7ba32
+  # Type
+  Value: Single-Line Text
+- ID: ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e
+  # __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20160121T203332Z
