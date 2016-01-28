@@ -1,6 +1,6 @@
 
 // Core variables and mixins
-@import "bootstrap/variables";
+/*@import "bootstrap/variables";
 @import "bootstrap/mixins";
 
 // Reset and dependencies
@@ -12,8 +12,6 @@
 @import "bootstrap/type"; 
 @import "bootstrap/code"; 
 @import "bootstrap/tables"; 
-@import "bootstrap/forms"; 
- 
+@import "bootstrap/forms";*/
 
-
-    
+@import "_bootstrap";  

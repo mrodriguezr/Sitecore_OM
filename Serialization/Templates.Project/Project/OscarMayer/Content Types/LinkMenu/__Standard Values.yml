@@ -1,0 +1,26 @@
+﻿---
+ID: 1aba2409-cfe1-4fb4-9da2-b267345df354
+Parent: 420b4600-c870-486e-a472-7cc17837a96b
+Template: 420b4600-c870-486e-a472-7cc17837a96b
+Path: /sitecore/templates/Project/OscarMayer/Content Types/LinkMenu/__Standard Values
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  # __Icon
+  Value: Applications/32x32/folder_preferences.png
+- ID: 1172f251-dad4-4efb-a329-0c63500e4f1e
+  # __Masters
+  Type: TreelistEx
+  Value: |
+    {10BD4E72-3D66-4BFD-A0C0-76CF1391D543}
+    {420B4600-C870-486E-A472-7CC17837A96B}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20160128T192805Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin

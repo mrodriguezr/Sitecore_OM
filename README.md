@@ -6,5 +6,6 @@ Sitecore POC project
 - Unicorn
 - Dynamic Placeholders
 - Slowcheetah
-- Twitter.Bootstrap.Sass 3
+- Bootstrap
 - Gulp
+- SASS

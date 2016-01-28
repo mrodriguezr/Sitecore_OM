@@ -13,7 +13,7 @@ namespace OscarMayer.Repository
     {
         public static Item Get(Item contextItem)
         {
-            return contextItem.GetAncestorOrSelfOfTemplate(Templates.Identity.ID) ?? Context.Site.GetContextItem(Templates.Identity.ID);
+            return null;//contextItem.GetAncestorOrSelfOfTemplate(Templates.Identity.ID) ?? Context.Site.GetContextItem(Templates.Identity.ID);
         }
     }
 }

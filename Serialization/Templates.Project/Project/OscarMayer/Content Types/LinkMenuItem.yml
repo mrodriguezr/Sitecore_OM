@@ -1,0 +1,30 @@
+﻿---
+ID: 10bd4e72-3d66-4bfd-a0c0-76cf1391d543
+Parent: 60624182-d881-42c8-90a3-e5cf1e76adca
+Template: ab86861a-6030-46c5-b394-e8f99e8b87db
+Path: /sitecore/templates/Project/OscarMayer/Content Types/LinkMenuItem
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  # __Icon
+  Value: Network/16x16/link.png
+- ID: 12c33f3f-86c5-43a5-aeb4-5598cec45116
+  # __Base template
+  Type: tree list
+  Value: |
+    {1930BBEB-7805-471A-A3BE-4858AC7CF696}
+    {D9CE04BA-6540-4F32-B1D9-3724B20497CA}
+    {7B997A48-FCDD-4FFA-8A20-5C43BD13C481}
+- ID: f7d48a55-2158-4f02-9356-756654404f73
+  # __Standard values
+  Value: {4FA97E6B-0F54-4CE3-9BDF-474E814A787F}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20160128T193237Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin

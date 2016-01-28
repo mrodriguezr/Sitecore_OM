@@ -14,4 +14,10 @@
   <File Include="Views\Website\Sublayouts\OneColumn.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
     <Item DatabaseName="master">{DD5D1D2D-35D6-45FB-81CD-62F7B31E1532}</Item>
   </File>
+  <File Include="Views\Feature\Common\Footer.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{6735913F-DF73-4966-8A69-94D1B85554EF}</Item>
+  </File>
+  <File Include="Views\Website\Sublayouts\ThreeColumns.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{C7618D0B-01B1-40C5-8C07-D0B4332D882C}</Item>
+  </File>
 </Project>

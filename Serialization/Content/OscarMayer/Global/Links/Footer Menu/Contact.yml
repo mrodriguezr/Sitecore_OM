@@ -1,0 +1,19 @@
+﻿---
+ID: 783be318-41e0-4a25-8cce-9feee3596388
+Parent: b4b647fc-ec87-426a-9631-5b44ef39f949
+Template: 10bd4e72-3d66-4bfd-a0c0-76cf1391d543
+Path: /sitecore/content/OscarMayer/Global/Links/Footer Menu/Contact
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 2436191f-5525-48c0-9305-513065d135fd
+      # NavigationTitle
+      Value: Contact Us
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20160128T204812Z
+    - ID: 49642a1b-3e14-407c-943a-2c097a12d997
+      # ShowInNavigation
+      Value: 1

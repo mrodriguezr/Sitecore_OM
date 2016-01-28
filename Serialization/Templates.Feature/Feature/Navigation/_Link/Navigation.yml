@@ -1,0 +1,16 @@
+﻿---
+ID: 020df7bd-6ed5-4d31-8e3d-a22340f49d4c
+Parent: 17d92231-82b5-41e5-a850-e01933972891
+Template: e269fbb5-3750-427a-9149-7aa950b49301
+Path: /sitecore/templates/Feature/Navigation/_Link/Navigation
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20160128T185232Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin

@@ -1,0 +1,21 @@
+﻿---
+ID: 5bdcc8b0-e65b-478b-b4b9-0576df5fbbaf
+Parent: ae955d91-5dd8-49a0-b88c-4e226ca5ffb5
+Template: 5c547d4e-7111-4995-95b0-6b561751bf2e
+Path: /sitecore/layout/Placeholder Settings/Project/OscarMayer/footer
+SharedFields:
+- ID: 7256bdab-1fd2-49dd-b205-cb4873d2917c
+  # Placeholder Key
+  Value: footer
+- ID: e391b526-d0c5-439d-803e-17512eae6222
+  # Allowed Controls
+  Type: TreelistEx
+  Value: {45875E25-EE28-4990-92E4-B07872B68E8C}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20160128T173157Z

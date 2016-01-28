@@ -1,20 +1,17 @@
 ﻿
 @model Sitecore.Mvc.Presentation.RenderingModel
 
-<h1>Spot Media</h1>
-<div class="jumbotron">
-    <div class="container">
-        <h1>
-            @Html.Sitecore().Field("MediaTitle", Model.Item)
-        </h1>
-        <p>
-            @Html.Sitecore().Field("MediaImage", Model.Item)
-        </p>
-        <p>
-            @Html.Sitecore().Field("MediaLink", Model.Item, new
-            {
-                @class = "btn btn-primary btn-lg"
-            })
-        </p>
-    </div>
+<div class="spot-media">
+    <h1>
+        @Html.Sitecore().Field("MediaTitle", Model.Item)
+    </h1>
+    <p>
+        @Html.Sitecore().Field("MediaImage", Model.Item)
+    </p>
+    <p>
+        @Html.Sitecore().Field("MediaLink", Model.Item, new
+        {
+            @class = "btn btn-primary btn-lg"
+        })
+    </p>
 </div>

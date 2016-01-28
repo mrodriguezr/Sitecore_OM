@@ -3,6 +3,7 @@
 var gulp = require('gulp');
 var watch = require('gulp-watch');
 var foreach = require('gulp-foreach');
+var browserSync = require('browser-sync').create();
 
 var config = require('./gulp-config.js')();
 var websiteRoot = config.websiteRoot;
@@ -11,7 +12,7 @@ var websiteRoot = config.websiteRoot;
 /*****************************
  Watchers
 *****************************/
-gulp.task('Auto-Publish-Css', function () {
+gulp.task('watch-css', function () {
     var roots = './OscarMayer/assets';
     var files = '/*.css';
     var destination = websiteRoot + '\\assets';
@@ -26,9 +27,20 @@ gulp.task('Auto-Publish-Css', function () {
                   console.log('Publish this file ' + event.path);
                   gulp.src(event.path, { base: rootFolder.path }).pipe(gulp.dest(destination));
               }
+
               console.log('Published ' + event.path);
           });
+          
           return stream;
       })
-    );
+    ).pipe(browserSync.stream());
+});
+
+gulp.task('browser-sync', ['watch-css'], function () {
+    var destination = websiteRoot + '\\assets\\*.css';
+    browserSync.init({
+        proxy: config.host
+    });
+
+    gulp.watch(destination).on('change', browserSync.reload);
 });

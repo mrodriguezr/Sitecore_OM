@@ -1,0 +1,57 @@
+
+$black: #000;
+$red: #dd311e;
+$white: #fff;
+$yellow: #fec318;
+$light: #f1efe8;
+
+body {
+    background: $light;
+}
+
+header {
+    position: relative;
+    height: 52px;
+    background-color: $yellow;
+}
+footer {
+    background: $red;
+    color: white;
+    min-height: 100px;
+    padding: 40px 0 30px;
+    text-align: center;
+
+    nav {
+        ul {
+            list-style: none;
+
+            li {
+                display: inline-block;
+
+                a{
+                    color: $white;
+                    letter-spacing: 0.1em;
+                    margin-right: 20px;
+                    text-decoration: none;
+                    font-weight: bold;
+
+                    -webkit-transition: color 0.2s ease-in-out;
+                    -moz-transition: color 0.2s ease-in-out;
+                    -ms-transition: color 0.2s ease-in-out;
+                    -o-transition: color 0.2s ease-in-out;
+                    transition: color 0.2s ease-in-out;
+
+                    &:hover {
+                        color: $black;
+                    }
+                }
+            }
+        }
+    }
+
+    .copyright {
+        font-size: 0.8em;
+    }
+}
+
+@import "feature/_media.scss";

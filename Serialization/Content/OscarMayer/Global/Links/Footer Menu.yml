@@ -1,0 +1,13 @@
+﻿---
+ID: b4b647fc-ec87-426a-9631-5b44ef39f949
+Parent: 1f0688f6-7c38-4efe-a0a1-ec764d990d3f
+Template: 420b4600-c870-486e-a472-7cc17837a96b
+Path: /sitecore/content/OscarMayer/Global/Links/Footer Menu
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20160128T194337Z

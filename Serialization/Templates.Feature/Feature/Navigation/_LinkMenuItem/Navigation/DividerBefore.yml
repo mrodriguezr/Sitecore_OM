@@ -1,0 +1,20 @@
+﻿---
+ID: 89471727-5a9d-4287-ab04-85d7ea5936fd
+Parent: a9f7ad9d-f5e5-4aed-ad6b-e8878e9fc0c2
+Template: 455a3e98-a627-4b40-8035-e683a0331ac7
+Path: /sitecore/templates/Feature/Navigation/_LinkMenuItem/Navigation/DividerBefore
+SharedFields:
+- ID: ab162cc0-dc80-4abf-8871-998ee5d7ba32
+  # Type
+  Value: Checkbox
+- ID: ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e
+  # __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20160128T193119Z

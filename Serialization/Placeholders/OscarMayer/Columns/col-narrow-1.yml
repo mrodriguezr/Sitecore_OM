@@ -1,0 +1,21 @@
+﻿---
+ID: cd778128-f64e-4448-aee6-0ae1f7994913
+Parent: 7ad26295-c438-4ca7-bf6b-4301724d5e66
+Template: 5c547d4e-7111-4995-95b0-6b561751bf2e
+Path: /sitecore/layout/Placeholder Settings/Project/OscarMayer/Columns/col-narrow-1
+SharedFields:
+- ID: 7256bdab-1fd2-49dd-b205-cb4873d2917c
+  # Placeholder Key
+  Value: col-narrow-1
+- ID: e391b526-d0c5-439d-803e-17512eae6222
+  # Allowed Controls
+  Type: TreelistEx
+  Value: {2EDF8879-8541-4193-8AF8-A7A2131A069D}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20160128T230209Z
