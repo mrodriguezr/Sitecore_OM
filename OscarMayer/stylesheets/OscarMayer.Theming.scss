@@ -4,6 +4,12 @@ $red: #dd311e;
 $white: #fff;
 $yellow: #fec318;
 $light: #f1efe8;
+$gray-light: #666666;
+
+
+/********************************
+    Global Styles
+********************************/
 
 body {
     background: $light;
@@ -54,4 +60,8 @@ footer {
     }
 }
 
-@import "feature/_media.scss";
+/********************************
+    Feature Components
+********************************/
+
+@import "feature/_media.scss"; 

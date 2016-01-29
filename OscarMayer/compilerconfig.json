@@ -1,5 +1,9 @@
 ﻿[
   {
+    "outputFile": "assets/bootstrap.css",
+    "inputFile": "stylesheets/_bootstrap.scss"
+  },
+  {
     "outputFile": "assets/OscarMayer.Theming.Global.css",
     "inputFile": "stylesheets/OscarMayer.Theming.Global.scss"
   },

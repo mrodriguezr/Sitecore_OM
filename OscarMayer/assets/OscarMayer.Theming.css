@@ -1,4 +1,7 @@
-﻿body {
+﻿/********************************
+    Global Styles
+********************************/
+body {
   background: #f1efe8; }
 
 header {
@@ -31,4 +34,21 @@ footer {
           color: #000; }
   footer .copyright {
     font-size: 0.8em; }
+
+/********************************
+    Feature Components
+********************************/
+.spot-media {
+  margin-top: 24px; }
+  .spot-media > .spot-media-image {
+    margin-bottom: 24px; }
+  .spot-media img {
+    vertical-align: middle;
+    width: 100%;
+    max-width: 100%; }
+  .spot-media .spot-media-body h3 {
+    color: #666666; }
+  .spot-media .spot-media-footer a {
+    color: #dd311e;
+    font-weight: bold; }
 

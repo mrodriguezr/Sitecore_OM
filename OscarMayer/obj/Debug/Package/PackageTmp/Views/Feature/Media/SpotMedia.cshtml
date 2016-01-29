@@ -1,17 +1,19 @@
-﻿
+﻿@using OscarMayer.Extensions
+
 @model Sitecore.Mvc.Presentation.RenderingModel
 
 <div class="spot-media">
-    <h1>
-        @Html.Sitecore().Field("MediaTitle", Model.Item)
-    </h1>
-    <p>
-        @Html.Sitecore().Field("MediaImage", Model.Item)
-    </p>
-    <p>
-        @Html.Sitecore().Field("MediaLink", Model.Item, new
-        {
-            @class = "btn btn-primary btn-lg"
-        })
-    </p>
+    <div class="spot-media-image">
+        @Html.Sitecore().ImageField("MediaImage", Model.Item, mw: 750, cssClass: "img-responsive")
+    </div>
+
+    <div class="spot-media-body">
+        <h3>
+            @Html.Sitecore().Field("MediaTitle", Model.Item)
+        </h3>
+    </div>
+
+    <div class="spot-media-footer">
+        @Html.Sitecore().Field("MediaLink", Model.Item)
+    </div>
 </div>

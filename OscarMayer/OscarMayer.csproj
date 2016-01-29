@@ -139,6 +139,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="assets\bootstrap.css" />
+    <Content Include="assets\bootstrap.min.css">
+      <DependentUpon>bootstrap.css</DependentUpon>
+    </Content>
     <Content Include="assets\OscarMayer.Theming.css" />
     <Content Include="assets\OscarMayer.Theming.Global.css" />
     <Content Include="assets\OscarMayer.Theming.Global.min.css">
@@ -169,6 +173,7 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\NavigationController.cs" />
     <Compile Include="Extensions\FieldExtensions.cs" />
+    <Compile Include="Extensions\HtmlHelperExtensions.cs" />
     <Compile Include="Extensions\ItemExtensions.cs" />
     <Compile Include="Extensions\SiteExtensions.cs" />
     <Compile Include="Models\Navigation\NavigationItem.cs" />

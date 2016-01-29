@@ -17,6 +17,9 @@ Languages:
     - ID: cd4ea774-daec-4207-be18-34965aedbf78
       # MediaImage
       Value: "<image mediaid=\"{2F386C96-DED5-4842-A969-5FE2AB6E1A46}\" />"
+    - ID: e080e84d-258c-4c0e-a506-892432a73de7
+      # MediaLink
+      Value: "<link text=\"My Article\" linktype=\"external\" url=\"http://www.google.com\" anchor=\"\" target=\"\" />"
     - ID: eea2a7a6-d38e-4a71-88ce-d1b9e0f6dc63
       # MediaTitle
       Value: Custom

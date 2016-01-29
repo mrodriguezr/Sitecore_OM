@@ -1,2 +1,27 @@
+/// <reference path="_bootstrap.scss" />
+
 .spot-media {
+    margin-top: 24px;
+   
+     >.spot-media-image {
+        margin-bottom: 24px;
+    }
+    
+    img {
+        vertical-align: middle;
+        width: 100%;
+        max-width: 100%;
+    }
+
+    .spot-media-body {
+        h3 {
+            color: $gray-light;
+        }
+    }
+    .spot-media-footer {
+        a {
+            color: $red;
+            font-weight: bold;
+        }
+    }
 }

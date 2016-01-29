@@ -9,3 +9,4 @@ Sitecore POC project
 - Bootstrap
 - Gulp
 - SASS
+- Browsersync
