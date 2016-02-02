@@ -1,0 +1,22 @@
+﻿---
+ID: 632f40e7-a614-4931-86b7-25f6cfda0c12
+Parent: d7b9da43-eed5-4959-8001-389d4d64cf02
+Template: c935128c-23e1-4eb6-b0c3-d1751ef69060
+Path: /sitecore/content/OscarMayer/Global/Media/Hero/Hero1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20160202T155037Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: 72329710-3735-4b63-829f-b872432e4fdd
+      # MediaImage
+      Value: "<image mediaid=\"{81C44FB6-F7C6-4BE5-9DC0-B5380B4E6987}\" ></image>"
+    - ID: a2146594-61a1-4a73-9a64-a91a5dbf2f62
+      # MediaTitle
+      Value: The Great Sandwich as

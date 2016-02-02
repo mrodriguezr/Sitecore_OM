@@ -1,0 +1,22 @@
+﻿---
+ID: c54fa750-2b69-44fd-be06-7bac8b0c3fb9
+Parent: cb683351-f061-4da0-a9b5-48cbd2301135
+Template: bbb9bba0-13b3-48fe-aba8-87510ddc38fd
+Path: /sitecore/content/OscarMayer/Global/Media/Spot/111
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20160202T193530Z
+    - ID: 72329710-3735-4b63-829f-b872432e4fdd
+      # MediaImage
+      Value: 
+    - ID: a2146594-61a1-4a73-9a64-a91a5dbf2f62
+      # MediaTitle
+      Value: tsetes
+    - ID: e080e84d-258c-4c0e-a506-892432a73de7
+      # MediaLink
+      Value: "<link linktype=\"internal\" text=\"test2\" querystring=\"\" target=\"\" id=\"{DEB7379B-4999-4E70-ACA0-779430115C2E}\" />"

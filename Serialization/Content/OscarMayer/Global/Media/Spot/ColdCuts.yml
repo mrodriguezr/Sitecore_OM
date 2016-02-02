@@ -1,0 +1,25 @@
+﻿---
+ID: 61d95cd9-d1c5-4921-bec1-086eb5bb7d95
+Parent: cb683351-f061-4da0-a9b5-48cbd2301135
+Template: bbb9bba0-13b3-48fe-aba8-87510ddc38fd
+Path: /sitecore/content/OscarMayer/Global/Media/Spot/ColdCuts
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20160129T173827Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: 72329710-3735-4b63-829f-b872432e4fdd
+      # MediaImage
+      Value: "<image mediaid=\"{58D7C8E1-1EE0-4F8A-9AB3-4B1BBDFA0360}\" ></image>"
+    - ID: a2146594-61a1-4a73-9a64-a91a5dbf2f62
+      # MediaTitle
+      Value: Now try Oscar Mayer Natural Cold Cuts!
+    - ID: e080e84d-258c-4c0e-a506-892432a73de7
+      # MediaLink
+      Value: "<link text=\"Read More\" linktype=\"external\" url=\"http://www.oscarmayer.com/natural\" anchor=\"\" target=\"_blank\" />"

@@ -1,0 +1,25 @@
+﻿---
+ID: a388fb05-eebc-4472-9268-0c19fc9c3bc6
+Parent: cb683351-f061-4da0-a9b5-48cbd2301135
+Template: bbb9bba0-13b3-48fe-aba8-87510ddc38fd
+Path: /sitecore/content/OscarMayer/Global/Media/Spot/test
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20160202T173340Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: 72329710-3735-4b63-829f-b872432e4fdd
+      # MediaImage
+      Value: "<image mediaid=\"{C05C3C31-A3AA-42BB-A9E8-960B99C00EF6}\" />"
+    - ID: a2146594-61a1-4a73-9a64-a91a5dbf2f62
+      # MediaTitle
+      Value: Carlita
+    - ID: e080e84d-258c-4c0e-a506-892432a73de7
+      # MediaLink
+      Value: "<link linktype=\"external\" text=\"Google\" url=\"http://www.google.com\" anchor=\"\" target=\"\" />"

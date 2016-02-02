@@ -1,0 +1,13 @@
+﻿---
+ID: d7b9da43-eed5-4959-8001-389d4d64cf02
+Parent: 937f9c93-a4b7-4260-ac27-2e67adcaa3ad
+Template: 6401e8fb-a9a3-49a8-a772-f40fc036ae3d
+Path: /sitecore/content/OscarMayer/Global/Media/Hero
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20160202T151500Z

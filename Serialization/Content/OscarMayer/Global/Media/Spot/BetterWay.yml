@@ -1,0 +1,25 @@
+﻿---
+ID: 99ef4ecc-eca8-4d00-aa80-0a49f921588b
+Parent: cb683351-f061-4da0-a9b5-48cbd2301135
+Template: bbb9bba0-13b3-48fe-aba8-87510ddc38fd
+Path: /sitecore/content/OscarMayer/Global/Media/Spot/BetterWay
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20160129T165637Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: 72329710-3735-4b63-829f-b872432e4fdd
+      # MediaImage
+      Value: "<image mediaid=\"{1F55C90C-8B5C-486B-8D74-9392BBEE7718}\" ></image>"
+    - ID: a2146594-61a1-4a73-9a64-a91a5dbf2f62
+      # MediaTitle
+      Value: It's not too good to be true
+    - ID: e080e84d-258c-4c0e-a506-892432a73de7
+      # MediaLink
+      Value: "<link linktype=\"external\" text=\"Watch our latest video\" url=\"https://www.youtube.com/watch?v=ohCkrRc1_os\" anchor=\"\" target=\"_blank\" />"

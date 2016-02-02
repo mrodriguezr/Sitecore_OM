@@ -1,0 +1,16 @@
+﻿---
+ID: c3dc3eff-e214-4c3f-8189-caea106d984e
+Parent: d7b9da43-eed5-4959-8001-389d4d64cf02
+Template: c935128c-23e1-4eb6-b0c3-d1751ef69060
+Path: /sitecore/content/OscarMayer/Global/Media/Hero/Hero2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20160202T174111Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
