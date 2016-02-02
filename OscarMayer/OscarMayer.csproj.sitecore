@@ -20,4 +20,7 @@
   <File Include="Views\Website\Sublayouts\ThreeColumns.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
     <Item DatabaseName="master">{C7618D0B-01B1-40C5-8C07-D0B4332D882C}</Item>
   </File>
+  <File Include="Views\Feature\Media\ArticleHero.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{324B0226-8485-49E8-B1D9-59308E12A8BE}</Item>
+  </File>
 </Project>

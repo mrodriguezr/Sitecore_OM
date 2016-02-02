@@ -1,0 +1,15 @@
+﻿@using OscarMayer.Extensions
+
+@model Sitecore.Mvc.Presentation.RenderingModel
+
+<div class="article-hero">
+    <div class="hero-media">
+        @Html.Sitecore().ImageField("MediaImage", Model.Item, cssClass: "img-responsive")
+    </div>
+
+    <div class="billboard">
+        <div class="billboard-inner">
+            <h1>@Html.Sitecore().Field("MediaTitle", Model.Item)</h1>
+        </div>
+    </div>
+</div>

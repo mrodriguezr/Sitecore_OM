@@ -12,7 +12,7 @@ SharedFields:
   Value: /Views/Feature/Media/SpotMedia.cshtml
 - ID: b5b27af1-25ef-405c-87ce-369b3a004016
   # Datasource Location
-  Value: /sitecore/content/OscarMayer/Global/Media
+  Value: /sitecore/content/OscarMayer/Global/Media/Spot
 Languages:
 - Language: en
   Versions:
