@@ -1,0 +1,16 @@
+﻿---
+ID: 9d6de48c-00fe-433b-aa3d-8dd689297a59
+Parent: 3c9e6fc1-f3b0-4daf-84f6-59e23e7be6e4
+Template: c5785241-f83d-4b4d-822b-a2c12bf7b5d5
+Path: /sitecore/content/OscarMayer/Home/Articles
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 0aba86a7-f36d-42a7-877d-add7243c3cf0
+      # Title
+      Value: Articles
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20160204T173308Z

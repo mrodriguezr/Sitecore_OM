@@ -1,8 +1,8 @@
 ﻿---
-ID: 0aba86a7-f36d-42a7-877d-add7243c3cf0
-Parent: fad6a345-b862-44d3-950a-69a935532bc9
+ID: 00fc6960-c436-441d-ac94-a0d4443d21cc
+Parent: adf22773-6e76-4d04-816b-98f49c3f53d3
 Template: 455a3e98-a627-4b40-8035-e683a0331ac7
-Path: /sitecore/templates/Feature/PageContent/_HasPageContent/Content/Title
+Path: /sitecore/templates/Feature/PageContent/_HasContent/Content/Title
 SharedFields:
 - ID: ab162cc0-dc80-4abf-8871-998ee5d7ba32
   # Type
@@ -17,4 +17,4 @@ Languages:
     Fields:
     - ID: 25bed78c-4957-4165-998a-ca1b52f67497
       # __Created
-      Value: 20160122T015812Z
+      Value: 20160204T190446Z

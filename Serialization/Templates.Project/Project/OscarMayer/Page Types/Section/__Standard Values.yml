@@ -3,6 +3,13 @@ ID: b1719ee3-9959-4ce4-b440-e0268dd8dedc
 Parent: c5785241-f83d-4b4d-822b-a2c12bf7b5d5
 Template: c5785241-f83d-4b4d-822b-a2c12bf7b5d5
 Path: /sitecore/templates/Project/OscarMayer/Page Types/Section/__Standard Values
+SharedFields:
+- ID: 1172f251-dad4-4efb-a329-0c63500e4f1e
+  # __Masters
+  Type: TreelistEx
+  Value: |
+    {C094174E-30A7-4DE7-BC88-EA90E43ECA32}
+    {C5785241-F83D-4B4D-822B-A2C12BF7B5D5}
 Languages:
 - Language: en
   Versions:

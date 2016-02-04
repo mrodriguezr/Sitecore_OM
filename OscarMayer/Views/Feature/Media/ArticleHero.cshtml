@@ -7,7 +7,7 @@
         @Html.Sitecore().ImageField("MediaImage", Model.Item, cssClass: "img-responsive")
     </div>
 
-    <div class="billboard">
+    <div class="@(Sitecore.Context.PageMode.IsExperienceEditor ? "billboard-editor" : "billboard")">
         <div class="billboard-inner">
             <h1>@Html.Sitecore().Field("MediaTitle", Model.Item)</h1>
         </div>

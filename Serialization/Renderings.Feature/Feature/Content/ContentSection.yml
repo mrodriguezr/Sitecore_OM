@@ -1,0 +1,23 @@
+﻿---
+ID: 383405bf-0cd5-48ed-a763-3f956726ea7a
+Parent: 1af83540-ec18-47a7-a3be-6ea4853cede5
+Template: 99f8905d-4a87-4eb8-9f8b-a9bebfb3add6
+Path: /sitecore/layout/Renderings/Feature/Content/ContentSection
+SharedFields:
+- ID: 1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f
+  # Datasource Template
+  Value: /sitecore/templates/Project/OscarMayer/Content Types/ContentSection
+- ID: 51b435bc-f7b9-478a-9c51-52916af96ff5
+  # Path
+  Value: /Views/Feature/Common/ContentSection.cshtml
+- ID: b5b27af1-25ef-405c-87ce-369b3a004016
+  # Datasource Location
+  Value: /sitecore/content/OscarMayer/Global/Content/Articles
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20160204T191152Z

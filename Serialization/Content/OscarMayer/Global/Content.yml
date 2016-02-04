@@ -1,0 +1,13 @@
+﻿---
+ID: 799e5f4d-c3c5-4090-ad4e-144eeb623db6
+Parent: f50bbb72-dec4-4c0d-a269-6a6ac3958036
+Template: ae7f0f7b-9174-4cf2-849a-6d60366a419f
+Path: /sitecore/content/OscarMayer/Global/Content
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20160204T191651Z

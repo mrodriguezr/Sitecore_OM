@@ -1,0 +1,13 @@
+﻿---
+ID: 7399d861-e378-4544-a08f-0cdc029bb340
+Parent: a799a640-4b59-4eda-bb96-7b7fc969e74a
+Template: a799a640-4b59-4eda-bb96-7b7fc969e74a
+Path: /sitecore/templates/Project/OscarMayer/Parameters/Layout/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20160204T221720Z

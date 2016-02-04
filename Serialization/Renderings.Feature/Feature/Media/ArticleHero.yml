@@ -16,6 +16,9 @@ SharedFields:
 - ID: b5b27af1-25ef-405c-87ce-369b3a004016
   # Datasource Location
   Value: /sitecore/content/OscarMayer/Global/Media/Hero
+- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+  # __Thumbnail
+  Value: "<image mediaid=\"{29212097-7B89-4F5C-A995-33F816291BDA}\" />"
 Languages:
 - Language: en
   Versions:

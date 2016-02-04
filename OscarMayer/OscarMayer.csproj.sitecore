@@ -23,4 +23,7 @@
   <File Include="Views\Feature\Media\ArticleHero.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
     <Item DatabaseName="master">{324B0226-8485-49E8-B1D9-59308E12A8BE}</Item>
   </File>
+  <File Include="Views\Feature\Common\ContentSection.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{383405BF-0CD5-48ED-A763-3F956726EA7A}</Item>
+  </File>
 </Project>

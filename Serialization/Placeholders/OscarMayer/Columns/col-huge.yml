@@ -10,7 +10,9 @@ SharedFields:
 - ID: e391b526-d0c5-439d-803e-17512eae6222
   # Allowed Controls
   Type: TreelistEx
-  Value: {324B0226-8485-49E8-B1D9-59308E12A8BE}
+  Value: |
+    {324B0226-8485-49E8-B1D9-59308E12A8BE}
+    {383405BF-0CD5-48ED-A763-3F956726EA7A}
 Languages:
 - Language: en
   Versions:

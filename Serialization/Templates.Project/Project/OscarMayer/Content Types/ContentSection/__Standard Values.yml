@@ -1,0 +1,19 @@
+﻿---
+ID: 9d98e42a-8ba6-4a1b-9bbb-8e3039b383c0
+Parent: aad936e8-61d7-4f9b-b0b9-6a4936621899
+Template: aad936e8-61d7-4f9b-b0b9-6a4936621899
+Path: /sitecore/templates/Project/OscarMayer/Content Types/ContentSection/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 00fc6960-c436-441d-ac94-a0d4443d21cc
+      # Body
+      Value: 
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20160204T201732Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin

@@ -4,6 +4,9 @@ Parent: 349c3cc4-9e2d-4dd2-b8af-d04c9ba8f379
 Template: 99f8905d-4a87-4eb8-9f8b-a9bebfb3add6
 Path: /sitecore/layout/Renderings/Feature/Media/SpotMedia
 SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  # __Icon
+  Value: Applications/32x32/bullet_ball_green.png
 - ID: 1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f
   # Datasource Template
   Value: /sitecore/templates/Project/OscarMayer/Content Types/Media/SpotMedia
@@ -13,6 +16,9 @@ SharedFields:
 - ID: b5b27af1-25ef-405c-87ce-369b3a004016
   # Datasource Location
   Value: /sitecore/content/OscarMayer/Global/Media/Spot
+- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+  # __Thumbnail
+  Value: "<image mediaid=\"{BC0B65FB-06D0-4954-A7F6-F3737AFBC39E}\" />"
 Languages:
 - Language: en
   Versions:

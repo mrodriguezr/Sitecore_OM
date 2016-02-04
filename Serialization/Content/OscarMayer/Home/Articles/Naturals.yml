@@ -1,0 +1,26 @@
+﻿---
+ID: 6468f98a-3cc6-408f-af13-e8426843399b
+Parent: 9d6de48c-00fe-433b-aa3d-8dd689297a59
+Template: c094174e-30a7-4de7-bc88-ea90e43eca32
+Path: /sitecore/content/OscarMayer/Home/Articles/Naturals
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 04bf00db-f5fb-41f7-8ab7-22408372a981
+      # __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s" p:p="1">
+          <d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r uid="{C0FA53E2-1452-4DC0-891B-D8B6B8A26C2F}" p:before="r[@uid='{4FDF1E05-A618-4E70-BCB5-06DCC7B71CC0}']" s:ds="{B4B647FC-EC87-426A-9631-5B44EF39F949}" s:id="{45875E25-EE28-4990-92E4-B07872B68E8C}" s:ph="footer_00000000-0000-0000-0000-000000000000" />
+            <r uid="{4FDF1E05-A618-4E70-BCB5-06DCC7B71CC0}" p:before="r[@uid='{2F76CC0A-6278-4AC6-ADFB-6537106BE200}']" s:ds="{48F79099-6457-4BD9-83BA-9A4B4FAECE0C}" s:id="{383405BF-0CD5-48ED-A763-3F956726EA7A}" s:ph="/page-layout/col-huge_97b97645-59f9-4e43-a745-c464bcdf3072" />
+            <r uid="{2F76CC0A-6278-4AC6-ADFB-6537106BE200}" p:before="r[@uid='{0D11F081-7784-4F40-A082-01B3EA92FA2A}']" s:ds="{632F40E7-A614-4931-86B7-25F6CFDA0C12}" s:id="{324B0226-8485-49E8-B1D9-59308E12A8BE}" s:ph="/page-layout/col-huge_0d11f081-7784-4f40-a082-01b3ea92fa2a" />
+            <r uid="{0D11F081-7784-4F40-A082-01B3EA92FA2A}" p:before="r[@uid='{97B97645-59F9-4E43-A745-C464BCDF3072}']" s:ds="" s:id="{DD5D1D2D-35D6-45FB-81CD-62F7B31E1532}" s:par="ContainerIsFluid=1" s:ph="page-layout" />
+            <r uid="{97B97645-59F9-4E43-A745-C464BCDF3072}" p:before="r[@uid='{0B2372DB-CB10-48AC-832E-2BE3B8098464}']" s:ds="" s:id="{DD5D1D2D-35D6-45FB-81CD-62F7B31E1532}" s:par="ContainerIsFluid" s:ph="page-layout" />
+          </d>
+        </r>
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20160204T175409Z

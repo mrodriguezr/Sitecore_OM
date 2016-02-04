@@ -10,10 +10,7 @@ SharedFields:
 - ID: f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e
   # __Renderings
   Type: layout
-  Value: |
-    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-      <d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{7D13D926-A98F-420D-B5C3-27A0F1A22841}" />
-    </r>
+  Value: "<r xmlns:p=\"p\" xmlns:s=\"s\" p:p=\"1\" />"
 Languages:
 - Language: en
   Versions:

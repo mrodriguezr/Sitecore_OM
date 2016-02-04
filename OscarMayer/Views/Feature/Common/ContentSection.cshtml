@@ -1,0 +1,13 @@
+﻿
+@model Sitecore.Mvc.Presentation.RenderingModel
+
+<div class="content-section">
+    <div class="col-sm-12">
+        <h2 class="title">
+            @Html.Sitecore().Field("Title", Model.Item)
+        </h2>
+        <p>
+            @Html.Sitecore().Field("Body", Model.Item)
+        </p>
+    </div>
+</div>

@@ -1,0 +1,19 @@
+﻿---
+ID: 48f79099-6457-4bd9-83ba-9a4b4faece0c
+Parent: 2f39d953-a07a-4d6b-b7db-e2032b3bb813
+Template: aad936e8-61d7-4f9b-b0b9-6a4936621899
+Path: /sitecore/content/OscarMayer/Global/Content/Articles/ContentSection 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 00fc6960-c436-441d-ac94-a0d4443d21cc
+      # Title
+      Value: Old School vs. New School
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20160204T202922Z
+    - ID: c540f6eb-ca15-4e5f-894b-9f85d185337a
+      # Body
+      Value: Are You Retro or Nouveau? Classic or Creative? Let’s infuse some fresh thinking into our sandwich-making routine, with an Old School vs. New School faceoff. Maybe you’d like one of these updated takes on lunch—or maybe you’d like to try an old favorite for the first time in years. Let the battles begin.

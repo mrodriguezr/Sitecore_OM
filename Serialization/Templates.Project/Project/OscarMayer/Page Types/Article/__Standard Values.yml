@@ -1,0 +1,26 @@
+﻿---
+ID: 193de7ee-4a41-4b3b-bf3b-f2e1ca6c8d69
+Parent: c094174e-30a7-4de7-bc88-ea90e43eca32
+Template: c094174e-30a7-4de7-bc88-ea90e43eca32
+Path: /sitecore/templates/Project/OscarMayer/Page Types/Article/__Standard Values
+SharedFields:
+- ID: f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e
+  # __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{7D13D926-A98F-420D-B5C3-27A0F1A22841}">
+        <r ds="{B4B647FC-EC87-426A-9631-5B44EF39F949}" id="{45875E25-EE28-4990-92E4-B07872B68E8C}" par="" ph="footer" uid="{0B2372DB-CB10-48AC-832E-2BE3B8098464}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20160204T172921Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin

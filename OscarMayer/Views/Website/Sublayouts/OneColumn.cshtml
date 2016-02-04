@@ -1,10 +1,10 @@
-﻿@model Sitecore.Mvc.Presentation.RenderingModel
+﻿@using Sitecore
 
-<div class="container-fluid">
+@model Sitecore.Mvc.Presentation.RenderingModel
+
+
+<div class="container@(MainUtil.GetBool(Model.Rendering.Parameters["ContainerIsFluid"], false) ? "-fluid" : "" )">
     <div class="row">
         @Html.Sitecore().DynamicPlaceholder("col-huge")
-        @*<div class="col-md-12">
-            
-        </div>*@
     </div>
 </div>
