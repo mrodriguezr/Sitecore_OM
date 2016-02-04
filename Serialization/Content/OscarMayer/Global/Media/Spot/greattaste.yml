@@ -16,7 +16,7 @@ Languages:
       Value: sitecore\admin
     - ID: 72329710-3735-4b63-829f-b872432e4fdd
       # MediaImage
-      Value: "<image mediaid=\"{C05C3C31-A3AA-42BB-A9E8-960B99C00EF6}\" />"
+      Value: "<image mediaid=\"{C05C3C31-A3AA-42BB-A9E8-960B99C00EF6}\" ></image>"
     - ID: a2146594-61a1-4a73-9a64-a91a5dbf2f62
       # MediaTitle
       Value: Great taste you'll love

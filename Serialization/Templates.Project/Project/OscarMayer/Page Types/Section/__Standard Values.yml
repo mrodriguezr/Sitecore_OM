@@ -15,9 +15,6 @@ Languages:
   Versions:
   - Version: 1
     Fields:
-    - ID: 0aba86a7-f36d-42a7-877d-add7243c3cf0
-      # Title
-      Value: $name
     - ID: 25bed78c-4957-4165-998a-ca1b52f67497
       # __Created
       Value: 20160122T015854Z

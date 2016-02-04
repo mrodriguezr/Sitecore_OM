@@ -81,10 +81,17 @@ footer {
         .article-hero .billboard h1 {
           font-size: 22px; } }
 
-.content-section h2.title {
+.content-section .title {
   font-weight: bold;
   font-size: 36px;
   margin: 50px auto 20px; }
+
+.content-section .body {
+  color: #666666;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 18px;
+  line-height: 1.5;
+  letter-spacing: 0.04em; }
 
 /* Large Devices, Wide Screens */
 /* Medium Devices, Desktops */
