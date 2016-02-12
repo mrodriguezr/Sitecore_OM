@@ -152,6 +152,7 @@
       <DependentUpon>OscarMayer.Theming.css</DependentUpon>
     </Content>
     <Content Include="fonts\bootstrap\glyphicons-halflings-regular.svg" />
+    <Content Include="fonts\milo\FFMiloWebProMed.svg" />
     <Content Include="javascripts\bootstrap-sprockets.js" />
     <Content Include="javascripts\bootstrap.js" />
     <Content Include="javascripts\bootstrap.min.js" />
@@ -220,6 +221,11 @@
     <None Include="compilerconfig.json.defaults">
       <DependentUpon>compilerconfig.json</DependentUpon>
     </None>
+    <Content Include="fonts\milo\FFMiloWebProMed.eot" />
+    <Content Include="fonts\milo\FFMiloWebProMed.ttf" />
+    <Content Include="fonts\milo\FFMiloWebProMed.woff" />
+    <Content Include="fonts\milo\FFMiloWebProMed.woff2" />
+    <Content Include="fonts\milo\MiloSerif.woff" />
     <None Include="Properties\PublishProfiles\local.pubxml" />
     <Content Include="Views\Renderings\DateInfo.cshtml" />
     <Content Include="Views\Website\Sublayouts\OneColumn.cshtml" />
@@ -308,6 +314,8 @@
     <Content Include="Views\Website\Sublayouts\ThreeColumns.cshtml" />
     <Content Include="Views\Feature\Media\ArticleHero.cshtml" />
     <Content Include="Views\Feature\Common\ContentSection.cshtml" />
+    <Content Include="Views\Feature\Media\ProTip.cshtml" />
+    <Content Include="Views\Feature\Media\FeaturedMedia.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

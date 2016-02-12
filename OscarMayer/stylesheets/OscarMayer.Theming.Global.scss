@@ -15,3 +15,28 @@
 @import "bootstrap/forms";
 
 /*@import "_bootstrap";*/  
+
+@font-face {
+  font-family: 'MiloMed';
+  src: url('/fonts/milo/FFMiloWebProMed.eot');
+  src: url('/fonts/milo/FFMiloWebProMed.eot?#iefix') format('embedded-opentype'),
+       url('/fonts/milo/FFMiloWebProMed.woff2') format('woff2'),
+       url('/fonts/milo/FFMiloWebProMed.woff') format('woff'),
+       url('/fonts/milo/FFMiloWebProMed.ttf') format('truetype'),
+       url('/fonts/milo/FFMiloWebProMed.svg#FFMiloWebProMed') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Milo-Serif';
+  src: url('/fonts/milo/MiloSerif.eot');
+  src: url('/fonts/milo/MiloSerif.eot?#iefix') format('embedded-opentype'),
+       url('/fonts/milo/MiloSerif.woff2') format('woff2'),
+       url('/fonts/milo/MiloSerif.woff') format('woff'),
+       url('/fonts/milo/MiloSerif.ttf') format('truetype'),
+       url('/fonts/milo/MiloSerif.svg#FFMiloWebProMed') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+

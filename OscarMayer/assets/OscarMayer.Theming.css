@@ -2,7 +2,8 @@
     Global Styles
 ********************************/
 body {
-  background: #f1efe8; }
+  background: #f1efe8;
+  font-weight: 300; }
 
 header {
   position: relative;
@@ -14,7 +15,8 @@ footer {
   color: white;
   min-height: 100px;
   padding: 40px 0 30px;
-  text-align: center; }
+  text-align: center;
+  margin-top: 50px; }
   footer nav ul {
     list-style: none; }
     footer nav ul li {
@@ -34,6 +36,17 @@ footer {
           color: #000; }
   footer .copyright {
     font-size: 0.8em; }
+
+.row-heading {
+  font-weight: bolder;
+  text-align: center; }
+
+/********************************
+    Fluid Components
+********************************/
+.container-fluid > .row > .col-md-12 > .pro-tip, .container-fluid > .row > .col-md-12 > .article-hero, .container-fluid > .row > .col-md-12 > .featured-media {
+  margin-left: -15px;
+  margin-right: -15px; }
 
 /********************************
     Feature Components
@@ -88,10 +101,84 @@ footer {
 
 .content-section .body {
   color: #666666;
-  font-family: 'Times New Roman', Times, serif;
-  font-size: 18px;
+  font-family: 'Milo-Serif', Times, serif;
+  font-size: 17px;
   line-height: 1.5;
   letter-spacing: 0.04em; }
+
+.pro-tip {
+  background: #fff;
+  margin-top: 50px;
+  padding: 45px 0; }
+  .pro-tip .tip-content:before {
+    content: '';
+    position: absolute;
+    width: 2px;
+    background: #666666;
+    left: 0;
+    top: 5px;
+    bottom: 5px; }
+  .pro-tip .quote-copy {
+    font-family: Milo-Serif;
+    color: #666666;
+    font-style: italic;
+    font-size: 18px; }
+  .pro-tip .tip-title {
+    color: #dd311e;
+    font-size: 14px;
+    font-weight: bold; }
+  .pro-tip .tip-media {
+    position: absolute;
+    top: -150px; }
+
+.featured-media {
+  background: #f1ab14;
+  background: -moz-radial-gradient(center, ellipse cover, #ffd957 0%, #f1ab14 75%);
+  background: -webkit-gradient(radial, center center, 0px, center center, 75%, color-stop(0%, #ffd957), color-stop(75%, #f1ab14));
+  margin: 0 auto;
+  padding-bottom: 40px; }
+  .featured-media .featured-title {
+    padding-top: 60px;
+    padding-bottom: 80px; }
+    .featured-media .featured-title h2 {
+      color: #dd311e;
+      text-align: center;
+      overflow: hidden; }
+    .featured-media .featured-title h2 > * {
+      display: inline-block;
+      display: inline;
+      zoom: 1;
+      position: relative; }
+    .featured-media .featured-title h2 > *:before, .featured-media .featured-title h2 > *:after {
+      content: "";
+      position: absolute;
+      height: 1px;
+      width: 10000px;
+      border-top: 2px solid #ffd957;
+      top: 50%; }
+    .featured-media .featured-title h2 > *:before {
+      margin-left: 10px;
+      left: 100%; }
+    .featured-media .featured-title h2 > *:after {
+      margin-right: 10px;
+      right: 100%; }
+  .featured-media .featured-description {
+    margin-top: 50px; }
+    .featured-media .featured-description .featured-text {
+      color: #666666;
+      font-style: italic;
+      letter-spacing: 0.02em;
+      margin-bottom: 34px; }
+    .featured-media .featured-description .featured-cta a {
+      border: 2px solid #dd311e;
+      border-width: 2px;
+      color: #dd311e;
+      display: inline-block;
+      font-weight: normal;
+      font-size: 12px;
+      padding: 9px 14px;
+      position: relative;
+      z-index: 2; }
 
 /* Large Devices, Wide Screens */
 /* Medium Devices, Desktops */

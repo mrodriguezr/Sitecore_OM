@@ -1,0 +1,25 @@
+﻿---
+ID: c8f0182c-d675-4022-b4ff-5d84e251dd03
+Parent: 8fc3d20a-ac25-47de-9824-203339012e7f
+Template: 38cd2797-15f0-4463-9e26-3441b15a935c
+Path: /sitecore/content/OscarMayer/Global/Media/Pro Tips/ProTip1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20160209T174456Z
+    - ID: 5b195b96-187b-43b6-b4ad-8709b8b74e06
+      # MediaDescription
+      Value: <p>For a real time-saver, enlist your kids as your sous-chefs. Grade schoolers can help by washing veggies and cold hard-boiled eggs. Whether you get them saying “Yes, chef” to your every command is entirely up to you.</p>
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: 72329710-3735-4b63-829f-b872432e4fdd
+      # MediaImage
+      Value: "<image mediaid=\"{09881F6C-00C5-4DF0-8A4E-6CE7C2921C4E}\" ></image>"
+    - ID: a2146594-61a1-4a73-9a64-a91a5dbf2f62
+      # MediaTitle
+      Value: Pro tip

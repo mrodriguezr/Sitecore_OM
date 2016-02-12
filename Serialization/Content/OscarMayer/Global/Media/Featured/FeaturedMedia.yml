@@ -1,0 +1,28 @@
+﻿---
+ID: 183e8da5-61ef-461c-9966-0c21508f7321
+Parent: 0ea0737f-8ddd-4f47-bd04-80cd8b9cb051
+Template: a39ce286-699e-481b-b71f-744197986017
+Path: /sitecore/content/OscarMayer/Global/Media/Featured/FeaturedMedia
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20160212T172017Z
+    - ID: 5b195b96-187b-43b6-b4ad-8709b8b74e06
+      # MediaDescription
+      Value: "In 1936, back when your grandpa was eating his first grilled frank, the WIENERMOBILE was born. This 27-foot smile-generator is still roaming the country. You’ll never guess where it’s headed next. Actually, if you follow the WIENERMOBILE on <a href=\"http://\" id=\"https://www.instagram.com/thewienermobile/\">Instagram</a>, you may be able to guess."
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: 72329710-3735-4b63-829f-b872432e4fdd
+      # MediaImage
+      Value: "<image mediaid=\"{6F501E67-DB70-48A7-A252-A98B52E83E0C}\" />"
+    - ID: a2146594-61a1-4a73-9a64-a91a5dbf2f62
+      # MediaTitle
+      Value: WIENERMOBILE
+    - ID: d172fd07-c1a2-4e55-a0b7-29bff2b9f5e0
+      # MediaLink
+      Value: "<link linktype=\"internal\" text=\"RIDE WITH US\" querystring=\"\" target=\"\" id=\"{6468F98A-3CC6-408F-AF13-E8426843399B}\" />"

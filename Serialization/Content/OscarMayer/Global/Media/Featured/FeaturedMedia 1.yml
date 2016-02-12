@@ -1,0 +1,16 @@
+﻿---
+ID: 4d38c5b5-9f9f-4d6e-845a-1dca2eea0149
+Parent: 0ea0737f-8ddd-4f47-bd04-80cd8b9cb051
+Template: a39ce286-699e-481b-b71f-744197986017
+Path: /sitecore/content/OscarMayer/Global/Media/Featured/FeaturedMedia 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20160212T173226Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin

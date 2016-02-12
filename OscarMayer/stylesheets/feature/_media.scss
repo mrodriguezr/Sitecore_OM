@@ -80,13 +80,122 @@
 
     .body{
         color: $gray-light;
-        font-family: 'Times New Roman', Times, serif;
-        font-size: 18px;
+        font-family: 'Milo-Serif', Times, serif;
+        font-size: 17px;
         line-height: 1.5;
         letter-spacing: 0.04em;
 
     }
 }
+
+.pro-tip {
+    background: $white;    
+    margin-top: 50px;
+    padding: 45px 0;
+
+    .tip-content:before {
+        content: '';
+        position: absolute; 
+        width: 2px;
+        background: $gray-light;
+        left: 0;
+        top: 5px;
+        bottom: 5px;
+    }
+
+    .quote-copy {
+        font-family: Milo-Serif;
+        color: #666666;
+        font-style: italic;
+        font-size: 18px;
+    }
+
+    .tip-title {
+        color: $red;
+        font-size: 14px;
+        font-weight: bold;
+    }
+
+    .tip-media {
+        position: absolute;
+        top: -150px;
+    }
+}
+
+.featured-media {
+    background: $yellow-dark;
+      background: #f1ab14;
+  background: -moz-radial-gradient(center, ellipse cover, #ffd957 0%, #f1ab14 75%);
+  background: -webkit-gradient(radial, center center, 0px, center center, 75%, color-stop(0%, #ffd957), color-stop(75%, #f1ab14));
+  background: -webkit-radial-gradient(center, ellipse cover, #ffd957 0%, #f1ab14 75%);
+  background: radial-gradient(ellipse at center, #ffd957 0%, #f1ab14 75%); }
+
+    margin: 0 auto;
+    padding-bottom: 40px;
+
+    .featured-title {
+        padding-top: 60px;
+        padding-bottom: 80px;
+        
+        h2 {
+            color: $red;
+            text-align: center;
+            overflow: hidden; 
+        }
+
+        h2 > * {
+          display: inline-block;
+          display: inline;
+          zoom: 1;
+          position: relative; 
+        }
+
+        h2 > *:before, h2 > *:after {
+          content: "";
+          position: absolute;
+          height: 1px;
+          width: 10000px;
+          border-top: 2px solid $yellow-light;
+          top: 50%; 
+        }
+
+        h2 > *:before {
+          margin-left: 10px;
+          left: 100%; 
+        }
+
+        h2 > *:after {
+          margin-right: 10px;
+          right: 100%; 
+        }
+    }
+    
+    .featured-description {
+        margin-top: 50px;
+
+        .featured-text {
+            color: $gray-light;
+            font-style: italic;
+            letter-spacing: 0.02em;
+            margin-bottom: 34px;
+        }
+
+        .featured-cta {
+            a {
+                border: 2px solid $red;
+                border-width: 2px;
+                color: $red;
+                display: inline-block;
+                font-weight: normal;
+                font-size: 12px;
+                padding: 9px 14px;
+                position: relative;                
+                z-index: 2;
+            }
+        }
+    }
+}
+
 
 /* Large Devices, Wide Screens */
 @media only screen and (max-width : 1200px) {

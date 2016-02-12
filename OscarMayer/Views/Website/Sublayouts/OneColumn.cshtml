@@ -5,6 +5,8 @@
 
 <div class="container@(MainUtil.GetBool(Model.Rendering.Parameters["ContainerIsFluid"], false) ? "-fluid" : "" )">
     <div class="row">
-        @Html.Sitecore().DynamicPlaceholder("col-huge")
+        <div class="col-md-12">
+            @Html.Sitecore().DynamicPlaceholder("col-huge")
+        </div>
     </div>
 </div>

@@ -1,0 +1,23 @@
+﻿---
+ID: d80a6b79-efaa-4d18-b9ed-eb443a37198b
+Parent: 7810f950-a06d-41bf-80e5-dbea924243db
+Template: ab86861a-6030-46c5-b394-e8f99e8b87db
+Path: /sitecore/templates/Feature/Media/_HasFeaturedMedia
+SharedFields:
+- ID: 12c33f3f-86c5-43a5-aeb4-5598cec45116
+  # __Base template
+  Type: tree list
+  Value: |
+    {AD3E8918-DD47-474A-B220-871C5FBC29EC}
+    {97DCF8A1-26B6-491D-9689-1D4DDA604B7C}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20160212T165150Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin

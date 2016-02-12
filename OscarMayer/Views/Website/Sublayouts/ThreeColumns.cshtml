@@ -1,6 +1,10 @@
 ﻿@model Sitecore.Mvc.Presentation.RenderingModel
 
 <div class="container">
+
+    <h3 class="row-heading">
+        @Model.Rendering.Parameters["Heading"]
+    </h3>
     <div class="row">
         <div class="col-sm-4">
             @Html.Sitecore().DynamicPlaceholder("col-narrow-1")

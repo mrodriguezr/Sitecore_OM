@@ -1,0 +1,26 @@
+﻿---
+ID: 5d6af3ed-55f1-4de2-8330-a08e06c8c49e
+Parent: 349c3cc4-9e2d-4dd2-b8af-d04c9ba8f379
+Template: 99f8905d-4a87-4eb8-9f8b-a9bebfb3add6
+Path: /sitecore/layout/Renderings/Feature/Media/ProTip
+SharedFields:
+- ID: 1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f
+  # Datasource Template
+  Value: /sitecore/templates/Project/OscarMayer/Content Types/Media/Pro Tip
+- ID: 51b435bc-f7b9-478a-9c51-52916af96ff5
+  # Path
+  Value: /Views/Feature/Media/ProTip.cshtml
+- ID: b5b27af1-25ef-405c-87ce-369b3a004016
+  # Datasource Location
+  Value: /sitecore/content/OscarMayer/Global/Media/Pro Tips
+- ID: c7c26117-dbb1-42b2-ab5e-f7223845cca3
+  # __Thumbnail
+  Value: "<image mediaid=\"{3C60B123-314B-458C-AD49-4B6CA092C7A5}\" />"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20160209T173923Z

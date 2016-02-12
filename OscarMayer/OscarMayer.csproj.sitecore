@@ -26,4 +26,10 @@
   <File Include="Views\Feature\Common\ContentSection.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
     <Item DatabaseName="master">{383405BF-0CD5-48ED-A763-3F956726EA7A}</Item>
   </File>
+  <File Include="Views\Feature\Media\ProTip.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{5D6AF3ED-55F1-4DE2-8330-A08E06C8C49E}</Item>
+  </File>
+  <File Include="Views\Feature\Media\FeaturedMedia.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{E8B9FA34-7F8A-477B-8C97-F9066711C199}</Item>
+  </File>
 </Project>
