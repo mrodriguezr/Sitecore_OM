@@ -316,6 +316,8 @@
     <Content Include="Views\Feature\Common\ContentSection.cshtml" />
     <Content Include="Views\Feature\Media\ProTip.cshtml" />
     <Content Include="Views\Feature\Media\FeaturedMedia.cshtml" />
+    <Content Include="Views\Website\Sublayouts\TwoColumnRightGrid.cshtml" />
+    <Content Include="Views\Feature\Media\FeaturedCTA.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

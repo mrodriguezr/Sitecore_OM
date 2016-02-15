@@ -1,0 +1,20 @@
+﻿---
+ID: 2c0337a1-75e6-4efa-86b2-1b6e4d3229cd
+Parent: 65decfc2-e1c5-42db-8752-21e66e0d5b94
+Template: 455a3e98-a627-4b40-8035-e683a0331ac7
+Path: /sitecore/templates/Feature/Media/_HasFeatureCTA/Media/MediaCTA
+SharedFields:
+- ID: ab162cc0-dc80-4abf-8871-998ee5d7ba32
+  # Type
+  Value: General Link
+- ID: ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e
+  # __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20160215T194739Z

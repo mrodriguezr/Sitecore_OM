@@ -1,0 +1,25 @@
+﻿---
+ID: ce89e62e-982a-44fe-b205-8610eb3bb31e
+Parent: c0eafdbe-7e41-43d0-8284-0f1d4281d407
+Template: d2b183b6-c461-42c8-a3dc-8e2e0cb95a8c
+Path: /sitecore/content/OscarMayer/Global/Media/Featured CTA/FeaturedCTA
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20160215T201858Z
+    - ID: 2c0337a1-75e6-4efa-86b2-1b6e4d3229cd
+      # MediaCTA
+      Value: "<link linktype=\"internal\" text=\"LET THE BATTLE BEGIN\" querystring=\"\" target=\"\" id=\"{6468F98A-3CC6-408F-AF13-E8426843399B}\" />"
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: 72329710-3735-4b63-829f-b872432e4fdd
+      # MediaImage
+      Value: "<image mediaid=\"{0393ADD2-795F-44DE-A0AC-D80AFA2B54E0}\" />"
+    - ID: a2146594-61a1-4a73-9a64-a91a5dbf2f62
+      # MediaTitle
+      Value: The Great Sandwich Snackdown

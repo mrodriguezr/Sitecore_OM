@@ -1,0 +1,16 @@
+﻿---
+ID: 65decfc2-e1c5-42db-8752-21e66e0d5b94
+Parent: a50d5e23-b574-40f2-a179-fa0dec820697
+Template: e269fbb5-3750-427a-9149-7aa950b49301
+Path: /sitecore/templates/Feature/Media/_HasFeatureCTA/Media
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20160215T194738Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin

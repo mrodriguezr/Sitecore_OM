@@ -32,4 +32,10 @@
   <File Include="Views\Feature\Media\FeaturedMedia.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
     <Item DatabaseName="master">{E8B9FA34-7F8A-477B-8C97-F9066711C199}</Item>
   </File>
+  <File Include="Views\Website\Sublayouts\TwoColumnRightGrid.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{A60B587A-E9BC-4748-AE2F-3CC5E363F76A}</Item>
+  </File>
+  <File Include="Views\Feature\Media\FeaturedCTA.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{8167BC6A-B490-4AC6-BDB4-A9BCC061FEE1}</Item>
+  </File>
 </Project>

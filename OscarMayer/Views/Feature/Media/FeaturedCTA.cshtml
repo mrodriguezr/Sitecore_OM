@@ -1,0 +1,17 @@
+﻿@using OscarMayer.Extensions
+
+@model Sitecore.Mvc.Presentation.RenderingModel
+
+<div class="featured-cta">
+    <div class="hero-media">
+        @Html.Sitecore().ImageField("MediaImage", Model.Item, cssClass: "img-responsive")
+    </div>
+
+    <div class="@(Sitecore.Context.PageMode.IsExperienceEditor ? "billboard-editor" : "billboard")">
+        <div class="billboard-inner">
+            <h1>@Html.Sitecore().Field("MediaTitle", Model.Item)</h1>
+        </div>
+
+        @Html.Sitecore().Field("MediaCTA", Model.Item)
+    </div>
+</div>

@@ -1,0 +1,25 @@
+﻿@model Sitecore.Mvc.Presentation.RenderingModel
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            @Html.Sitecore().DynamicPlaceholder("col-wide-1")
+        </div>
+        <div class="col-md-6">
+            <div class="row">
+                <div class="col-sm-6">
+                    @Html.Sitecore().DynamicPlaceholder("col-narrow-1")
+                </div>
+                <div class="col-sm-6">
+                    @Html.Sitecore().DynamicPlaceholder("col-narrow-2")
+                </div>
+                <div class="col-sm-6">
+                    @Html.Sitecore().DynamicPlaceholder("col-narrow-2")
+                </div>
+                <div class="col-sm-6">
+                    @Html.Sitecore().DynamicPlaceholder("col-narrow-4")
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
