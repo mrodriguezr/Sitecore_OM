@@ -318,6 +318,7 @@
     <Content Include="Views\Feature\Media\FeaturedMedia.cshtml" />
     <Content Include="Views\Website\Sublayouts\TwoColumnRightGrid.cshtml" />
     <Content Include="Views\Feature\Media\FeaturedCTA.cshtml" />
+    <Content Include="Views\Feature\Media\SpotOverlay.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

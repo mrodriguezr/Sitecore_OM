@@ -200,6 +200,38 @@ footer {
         .featured-cta .billboard h1 {
           font-size: 22px; } }
 
+.spot-overlay {
+  cursor: pointer;
+  position: relative;
+  margin: 12px auto; }
+  .spot-overlay .hero-media img {
+    width: 100%; }
+    @media only screen and (min-width: 768px) {
+      .spot-overlay .hero-media img {
+        max-height: 235px; } }
+  .spot-overlay .overlay-editor {
+    text-align: center; }
+  .spot-overlay .overlay {
+    width: 90%;
+    padding: 10px 15px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    font-size: 21px;
+    font-family: 'Milo', Arial, Helvetica, sans-serif;
+    line-height: 1.2;
+    letter-spacing: 0.1em;
+    color: #ffffff;
+    background: #95c11e;
+    background: rgba(149, 193, 30, 0.7); }
+    .spot-overlay .overlay .overlay-text {
+      font-size: 13px; }
+    .spot-overlay .overlay .overlay-title {
+      font-size: 16px; }
+
 /* Large Devices, Wide Screens */
 /* Medium Devices, Desktops */
 /* Small Devices, Tablets */

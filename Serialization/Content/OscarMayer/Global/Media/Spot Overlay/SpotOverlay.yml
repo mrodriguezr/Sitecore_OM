@@ -1,0 +1,25 @@
+﻿---
+ID: 5b9ab08f-fed1-4711-8a81-98d719b2a716
+Parent: 2082c6b4-fff8-4a52-bc5c-de6a08b59070
+Template: f0ddba0a-b3c8-48a3-a4ce-a30121159b0c
+Path: /sitecore/content/OscarMayer/Global/Media/Spot Overlay/SpotOverlay
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20160215T210824Z
+    - ID: 5b195b96-187b-43b6-b4ad-8709b8b74e06
+      # MediaDescription
+      Value: Quick and easy recipes featuring perfect food
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: 72329710-3735-4b63-829f-b872432e4fdd
+      # MediaImage
+      Value: "<image mediaid=\"{51CEC594-4E81-4D3C-8EB7-F09ECEE52F3B}\" />"
+    - ID: a2146594-61a1-4a73-9a64-a91a5dbf2f62
+      # MediaTitle
+      Value: When Turkey Met Quinoa

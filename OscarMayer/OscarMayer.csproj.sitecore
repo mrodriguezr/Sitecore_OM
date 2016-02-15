@@ -38,4 +38,7 @@
   <File Include="Views\Feature\Media\FeaturedCTA.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
     <Item DatabaseName="master">{8167BC6A-B490-4AC6-BDB4-A9BCC061FEE1}</Item>
   </File>
+  <File Include="Views\Feature\Media\SpotOverlay.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{D9C5BEEC-C795-490B-8320-60A92B317BE2}</Item>
+  </File>
 </Project>

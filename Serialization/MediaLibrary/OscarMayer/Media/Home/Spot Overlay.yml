@@ -1,0 +1,16 @@
+﻿---
+ID: 7fd783ca-7f9a-4536-a738-bd58c42e1aee
+Parent: 8f5b4265-f367-4018-9cd9-10bcc188c1b9
+Template: fe5dd826-48c6-436d-b87a-7c4210c7413b
+Path: /sitecore/media library/OscarMayer/Media/Home/Spot Overlay
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20160215T210950Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
